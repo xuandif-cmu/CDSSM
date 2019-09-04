@@ -1,2 +1,2 @@
 # CDSSM
-A PyTorch implementation of CDSSM described in "ZERO-SHOT LEARNING OF INTENT EMBEDDINGS FOR EXPANSION BY CONVOLUTIONAL DEEP STRUCTURED SEMANTIC MODELS" 
+A PyTorch implementation of Convolutional Deep Structured Semantic Models(CDSSM) described in [paper](https://ieeexplore.ieee.org/document/7472838) 
