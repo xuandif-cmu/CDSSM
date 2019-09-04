@@ -1,2 +1,2 @@
 # CDSSM
-PyTorch implementation of CDSSM for intent classification
+A PyTorch implementation of CDSSM described in "ZERO-SHOT LEARNING OF INTENT EMBEDDINGS FOR EXPANSION BY CONVOLUTIONAL DEEP STRUCTURED SEMANTIC MODELS" 
