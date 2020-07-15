@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Copyright 2019 The Hong Kong Polytechnic University (Xuandi Fu)
+#
 import input_data
 import torch
 from model_cdssm import CDSSM 
