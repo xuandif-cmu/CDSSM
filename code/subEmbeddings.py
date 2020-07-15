@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Copyright 2019 The Hong Kong Polytechnic University (Xuandi Fu)
 #%% env
 import numpy as np
 from gensim.models.keyedvectors import KeyedVectors
