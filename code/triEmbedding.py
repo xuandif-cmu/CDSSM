@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Copyright 2019 The Hong Kong Polytechnic University (Xuandi Fu)
+#
 from numpy import array
 from numpy import argmax
 import numpy as np
